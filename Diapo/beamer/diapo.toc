@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {french}
+\beamer@sectionintoc {1}{La t\IeC {\'e}l\IeC {\'e}vision interactive}{5}{0}{1}
+\beamer@subsectionintoc {1}{1}{Influence des personnes}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{La communication}{7}{0}{1}
+\beamer@subsectionintoc {1}{3}{Le partage}{8}{0}{1}
+\beamer@sectionintoc {2}{La t\IeC {\'e}l\IeC {\'e}vision sur multi-\IeC {\'e}crans}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Utilisation de la t\IeC {\'e}l\IeC {\'e}vision multi-\IeC {\'e}crans}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{\IeC {\'E}crans externes}{11}{0}{2}
+\beamer@sectionintoc {3}{Les syst\IeC {\`e}mes et services TV}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Box et p\IeC {\'e}riph\IeC {\'e}riques}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Cloud}{14}{0}{3}
